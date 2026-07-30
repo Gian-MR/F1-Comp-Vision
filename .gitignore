@@ -1,0 +1,5 @@
+# Local datasets are downloaded separately and should not be committed.
+data/
+
+# macOS metadata
+.DS_Store
