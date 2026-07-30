@@ -1,5 +1,6 @@
 # Local datasets are downloaded separately and should not be committed.
 data/
+.venv/
 
 # macOS metadata
 .DS_Store
